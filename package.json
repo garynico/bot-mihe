@@ -1,16 +1,23 @@
 {
   "name": "bot-mihe",
   "version": "1.0.0",
-  "description": "Bot Mihe",
+  "description": "",
   "main": "index.js",
   "dependencies": {
     "bottender": "^1.3.5"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garynico/bot-mihe.git"
   },
   "author": "Gary Nico",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garynico/bot-mihe/issues"
+  },
+  "homepage": "https://github.com/garynico/bot-mihe#readme"
 }
