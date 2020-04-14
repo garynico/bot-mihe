@@ -1,0 +1,15 @@
+{
+  "name": "bot-mihe",
+  "version": "1.0.0",
+  "description": "Bot Mihe",
+  "main": "index.js",
+  "dependencies": {
+    "bottender": "^1.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gary Nico",
+  "license": "ISC"
+}
