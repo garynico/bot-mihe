@@ -5,8 +5,8 @@ const { createServer } = require("bottender/express");
 const bot = new LineBot({
   // ubah ke access token dan channelSecret dibawah, sesuai dengan yang ada di line console
   accessToken:
-    "ssBhFkEkRQU78WVzSOOxlbos1//bFaRZXAnac0m+Ca46S9vfVATFxWeRSx3noZCr7SPJ/+kX+JUnFXki63BTX/aV66+w2G6zzcpU4dcFMNyenAgDppnpRl3dU39GCjLZ7ZoriOl8w2Ynz0uOax3sjwdB04t89/1O/w1cDnyilFU=",
-  channelSecret: "8b062f5e6ddc70038bf3673aaa93c192"
+    "RVPUtr9S+FKNCOsU2NbsScUq2D/PbCNvgfwQYFn2j3yc5phB+PjDiX96f5P2zfp1zCVzwEymeXjyebTSrWkxn64/lfaaDmsOsWTi9ZvFS7bJrrki01a503aOZacbA+AOzlT3E1IR7Ke/GsE75koGxAdB04t89/1O/w1cDnyilFU=",
+  channelSecret: "d49971225a5f5f2cf5942369fd4d837c"
 });
 
 bot.onEvent(async context => {
